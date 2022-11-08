@@ -14,4 +14,4 @@ Para estilização foi usada a biblioteca [Styled-Components](https://styled-com
 - `npm start`
 
 ## Para testar
-O projeto foi hospedado na Vercel. Para testes: [Clique aqui](https://react-d5react-galley.vercel.app/).
+O projeto foi hospedado na Vercel. Para testes: [Clique aqui](https://react-d5react-rpg.vercel.app/).

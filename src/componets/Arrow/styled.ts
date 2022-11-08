@@ -12,7 +12,7 @@ export const Container = styled.div`
     button {        
         position: absolute;
         border: 0;
-        background: none;
+        background: none;        
     }
 
     .up {
